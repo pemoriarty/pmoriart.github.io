@@ -2327,7 +2327,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio-area .filters-content .item img {
-  border-radius: 10px;
+  border-radius: 20px;
+  width: 50%
 }
 
 .portfolio-area .filters-content .item .p-inner {
@@ -2343,7 +2344,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio-area .filters-content .item img {
-  width: 70%;
+  width: 100%;
 }
 
 .service-area {
