@@ -2334,16 +2334,16 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px 0px;
 }
 
-.portfolio-area .filters-content .item .p-inner h5 {
-  font-size: 15px;
+.portfolio-area .filters-content .item .p-inner h4 {
+  font-size: 25px;
 }
 
 .portfolio-area .filters-content .item .p-inner .cat {
-  font-size: 13px;
+  font-size: 20px;
 }
 
 .portfolio-area .filters-content .item img {
-  width: 100%;
+  width: 70%;
 }
 
 .service-area {
