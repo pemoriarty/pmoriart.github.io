@@ -2328,7 +2328,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .portfolio-area .filters-content .item img {
   border-radius: 20px;
-  width: 50%
+  width: 50%;
+  background-color: lightskyblue;
 }
 
 .portfolio-area .filters-content .item .p-inner {
