@@ -2168,7 +2168,7 @@ h1, h2, h3, h4, h5, h6 {
 .banner-area {
   margin-top: -56px;
   border-radius: 10px;
-  background: url(../img/header-bg.jpg) center;
+  background:  center;
   background-size: cover;
 }
 
@@ -2337,7 +2337,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .portfolio-area .filters-content .item .p-inner {
   padding: 20px 0px;
-  background-color: lightskyblue;
+ 
 }
 
 .portfolio-area .filters-content .item .p-inner h4 {
